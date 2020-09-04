@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Don't know what to write
+=======
+Mauricio`s modification here.
+...
+One more here from Mauricio
+>>>>>>> 6ee041c0f846aa034d2042bb43daa88107ce9169
